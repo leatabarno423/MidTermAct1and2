@@ -12,7 +12,7 @@ echo "First Product Produce: ₱" .$productPrices[0] . "\n";
 
 //The Last Product Price.
 $lastIndex = count($productPrices) - 1;
-echo "Last Product Price: ₱" .$productPrices[$lastIndex] . "\n\n";
+echo "Last Product Price: ₱" .$productPrices[$lastIndex] . "\ n";
 
 //The Detailed Product View.
 $keyboard = [
